@@ -7,6 +7,12 @@
 #define PORT 8080
 #define BUFFER_SIZE 1024
 
+// Goal -> To Learn about how a web server works under the hood, don't use AI slop generator.
+// Base knowledge on https://github.com/bloominstituteoftechnology/C-Web-Server
+
+// Started on 17/06/2024 -> Read https://github.com/bloominstituteoftechnology/C-Web-Server/blob/master/guides/net.md
+//
+
 int main()
 {
     printf("Initiallising Server...\n");
