@@ -19,6 +19,7 @@
 // If it's not in the cache, load it from disk.
 // Save it in the cache.
 // Serve it.
+// 3. 21/02/2024 -> Mime types reading done...
 
 int main()
 {
